@@ -18,7 +18,7 @@ Use navbar to navigate to the three pages pages of the website.
 If website is condensed, use collapse-menu to expand navbar and select from there
 Click on portfolio links to visit the sites referenced in each card
 
-![main page](assets/images/mainimg.jpg)
+![main page](assets/images/mainimg1.jpg)
 ![Updated portfolio page](assets/images/portfolioImg.jpg)
 ![Contact page in condensed format with drop-down menu](assets/images/mobileDrop.jpg)
 
